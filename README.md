@@ -1,4 +1,4 @@
 # CCEWProject
-REST: http://services.arcgis.com/MdapRpkzb0PVHqL1/arcgis/rest/services/Geog625Proj/FeatureServer
-https://github.com/Esri/esri-leaflet
+REST: http://tiles.arcgis.com/tiles/MdapRpkzb0PVHqL1/arcgis/rest/services/Geog625Proj/MapServer
 Dev URL: http://unixlab.sfsu.edu/~pdunn/GEOG625HTMLLabProjectNew.htm
+Leaflet GitDocs: https://github.com/Esri/esri-leaflet
